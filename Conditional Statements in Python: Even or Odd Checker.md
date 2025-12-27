@@ -23,4 +23,4 @@ else:
 <img width="427" height="189" alt="Screenshot 2025-12-27 154951" src="https://github.com/user-attachments/assets/03df934d-cfba-46d7-adbe-9597260ab7d9" />
 
 ## Result
-
+thus the promgram excuted successfully
